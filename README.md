@@ -8,6 +8,10 @@ To get started, check out the repository and inspect the code.
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
+1. Suppress font.
+2. pass js script at the end of the html file.
+3. pass non prior style.css at the end of html file.
+
 Some useful tips to help you get started:
 
 1. Check out the repository
